@@ -28,6 +28,9 @@ First time dedicating an extended amount of time to create a big project
 that hasn't been assigned as school work. Turnt out pretty well and had some 
 stumps especially with the sorting method but have been able to get the
 methods created in good manner, at least to an undergraduate. 
+I don't know how long this program would take using the bubble sort with
+a lot of data because I didn't want to continiously log runs but it will work in
+the O^2 structure I believe.
 
 Thank you for checking this code out and let me know if there are any bugs
 or data that isn't calculated or displayed correctly.
